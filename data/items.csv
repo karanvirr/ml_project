@@ -1,0 +1,16 @@
+item_id,store_id,name,category,price,description
+i1,s1,Running Shoes,Sports,4500,A high-quality Running Shoes from Apex Sports.
+i2,s1,Yoga Mat,Sports,1500,A high-quality Yoga Mat from Apex Sports.
+i3,s1,Dumbbells,Sports,3000,A high-quality Dumbbells from Apex Sports.
+i4,s2,Denim Jeans,Apparel,2500,A high-quality Denim Jeans from Fashion Forward.
+i5,s2,Summer Dress,Apparel,3200,A high-quality Summer Dress from Fashion Forward.
+i6,s2,Leather Jacket,Apparel,7000,A high-quality Leather Jacket from Fashion Forward.
+i7,s3,Wireless Earbuds,Electronics,5000,A high-quality Wireless Earbuds from TechTrove.
+i8,s3,Smartwatch,Electronics,12000,A high-quality Smartwatch from TechTrove.
+i9,s3,Power Bank,Electronics,2000,A high-quality Power Bank from TechTrove.
+i10,s4,Artisan Cheese,Food,800,A high-quality Artisan Cheese from Gourmet Corner.
+i11,s4,Imported Olives,Food,500,A high-quality Imported Olives from Gourmet Corner.
+i12,s4,Dark Chocolate,Food,600,A high-quality Dark Chocolate from Gourmet Corner.
+i13,s5,Sci-Fi Novel,Books,700,A high-quality Sci-Fi Novel from Book Nook.
+i14,s5,Cookbook,Books,1100,A high-quality Cookbook from Book Nook.
+i15,s5,Mystery Thriller,Books,650,A high-quality Mystery Thriller from Book Nook.

@@ -1,13 +1,13 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from api import router as api_router
+from .api import router as api_router
 
 app = FastAPI(title="AI Mall API")
 
-# Configure CORS
+# Configure CORS - Allow all origins for deployment
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # Allows React app
+    allow_origins=["*"],  # In production, replace with specific domains
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

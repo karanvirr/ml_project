@@ -1,20 +1,22 @@
+version: '3.8'
+
 services:
   backend:
     build: ./backend
     ports:
       - "8000:8000"
     volumes:
-      - ./data:/app/data  # Mount data for the API
-      - ./backend/app:/app # Mount code for hot-reloading
-    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+      - ./data:/app/data
+      - ./backend/app:/app/app
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 
   frontend:
     build: ./frontend
     ports:
       - "3000:3000"
     volumes:
-      - ./frontend/src:/app/src # Mount src for hot-reloading
+      - ./frontend/src:/app/src
     environment:
-      - CHOKIDAR_USEPOLLING=true # Helps with hot-reloading in Docker
+      - CHOKIDAR_USEPOLLING=true
     depends_on:
       - backend

@@ -1,16 +1,109 @@
 item_id,store_id,name,category,price,description
-i1,s1,Running Shoes,Sports,4500,A high-quality Running Shoes from Apex Sports.
-i2,s1,Yoga Mat,Sports,1500,A high-quality Yoga Mat from Apex Sports.
-i3,s1,Dumbbells,Sports,3000,A high-quality Dumbbells from Apex Sports.
-i4,s2,Denim Jeans,Apparel,2500,A high-quality Denim Jeans from Fashion Forward.
-i5,s2,Summer Dress,Apparel,3200,A high-quality Summer Dress from Fashion Forward.
-i6,s2,Leather Jacket,Apparel,7000,A high-quality Leather Jacket from Fashion Forward.
-i7,s3,Wireless Earbuds,Electronics,5000,A high-quality Wireless Earbuds from TechTrove.
-i8,s3,Smartwatch,Electronics,12000,A high-quality Smartwatch from TechTrove.
-i9,s3,Power Bank,Electronics,2000,A high-quality Power Bank from TechTrove.
-i10,s4,Artisan Cheese,Food,800,A high-quality Artisan Cheese from Gourmet Corner.
-i11,s4,Imported Olives,Food,500,A high-quality Imported Olives from Gourmet Corner.
-i12,s4,Dark Chocolate,Food,600,A high-quality Dark Chocolate from Gourmet Corner.
-i13,s5,Sci-Fi Novel,Books,700,A high-quality Sci-Fi Novel from Book Nook.
-i14,s5,Cookbook,Books,1100,A high-quality Cookbook from Book Nook.
-i15,s5,Mystery Thriller,Books,650,A high-quality Mystery Thriller from Book Nook.
+i1,s1,Slim Fit Jeans,Fashion,3750,Premium quality Slim Fit Jeans from Zara.
+i2,s1,Cotton T-Shirt,Fashion,1200,Premium quality Cotton T-Shirt from Zara.
+i3,s1,Summer Dress,Fashion,5250,Premium quality Summer Dress from Zara.
+i4,s1,Leather Jacket,Fashion,12000,Premium quality Leather Jacket from Zara.
+i5,s1,Formal Shirt,Fashion,3300,Premium quality Formal Shirt from Zara.
+i6,s1,Sneakers,Fashion,6000,Premium quality Sneakers from Zara.
+i7,s2,Slim Fit Jeans,Fashion,2500,Mid-Range quality Slim Fit Jeans from H&M.
+i8,s2,Cotton T-Shirt,Fashion,800,Mid-Range quality Cotton T-Shirt from H&M.
+i9,s2,Summer Dress,Fashion,3500,Mid-Range quality Summer Dress from H&M.
+i10,s2,Leather Jacket,Fashion,8000,Mid-Range quality Leather Jacket from H&M.
+i11,s2,Formal Shirt,Fashion,2200,Mid-Range quality Formal Shirt from H&M.
+i12,s2,Sneakers,Fashion,4000,Mid-Range quality Sneakers from H&M.
+i13,s3,Leather Handbag,Luxury,375000,Luxury quality Leather Handbag from Gucci.
+i14,s3,Designer Sunglasses,Luxury,87500,Luxury quality Designer Sunglasses from Gucci.
+i15,s3,Silk Scarf,Luxury,62500,Luxury quality Silk Scarf from Gucci.
+i16,s3,Premium Watch,Luxury,625000,Luxury quality Premium Watch from Gucci.
+i17,s3,Evening Gown,Luxury,300000,Luxury quality Evening Gown from Gucci.
+i18,s4,Running Shoes,Sports,5000,Mid-Range quality Running Shoes from Nike.
+i19,s4,Yoga Mat,Sports,1500,Mid-Range quality Yoga Mat from Nike.
+i20,s4,Dri-Fit Tee,Sports,2000,Mid-Range quality Dri-Fit Tee from Nike.
+i21,s4,Gym Bag,Sports,3000,Mid-Range quality Gym Bag from Nike.
+i22,s4,Training Shorts,Sports,1800,Mid-Range quality Training Shorts from Nike.
+i23,s5,Slim Fit Jeans,Fashion,2500,Budget quality Slim Fit Jeans from Uniqlo.
+i24,s5,Cotton T-Shirt,Fashion,800,Budget quality Cotton T-Shirt from Uniqlo.
+i25,s5,Summer Dress,Fashion,3500,Budget quality Summer Dress from Uniqlo.
+i26,s5,Leather Jacket,Fashion,8000,Budget quality Leather Jacket from Uniqlo.
+i27,s5,Formal Shirt,Fashion,2200,Budget quality Formal Shirt from Uniqlo.
+i28,s5,Sneakers,Fashion,4000,Budget quality Sneakers from Uniqlo.
+i29,s6,Smartphone,Electronics,90000,Premium quality Smartphone from Apple Store.
+i30,s6,Laptop,Electronics,135000,Premium quality Laptop from Apple Store.
+i31,s6,Wireless Earbuds,Electronics,22500,Premium quality Wireless Earbuds from Apple Store.
+i32,s6,Smartwatch,Electronics,37500,Premium quality Smartwatch from Apple Store.
+i33,s6,4K TV,Electronics,82500,Premium quality 4K TV from Apple Store.
+i34,s6,Tablet,Electronics,60000,Premium quality Tablet from Apple Store.
+i35,s7,Smartphone,Electronics,60000,Mid-Range quality Smartphone from Samsung.
+i36,s7,Laptop,Electronics,90000,Mid-Range quality Laptop from Samsung.
+i37,s7,Wireless Earbuds,Electronics,15000,Mid-Range quality Wireless Earbuds from Samsung.
+i38,s7,Smartwatch,Electronics,25000,Mid-Range quality Smartwatch from Samsung.
+i39,s7,4K TV,Electronics,55000,Mid-Range quality 4K TV from Samsung.
+i40,s7,Tablet,Electronics,40000,Mid-Range quality Tablet from Samsung.
+i41,s8,Smartphone,Electronics,60000,Mid-Range quality Smartphone from Croma.
+i42,s8,Laptop,Electronics,90000,Mid-Range quality Laptop from Croma.
+i43,s8,Wireless Earbuds,Electronics,15000,Mid-Range quality Wireless Earbuds from Croma.
+i44,s8,Smartwatch,Electronics,25000,Mid-Range quality Smartwatch from Croma.
+i45,s8,4K TV,Electronics,55000,Mid-Range quality 4K TV from Croma.
+i46,s8,Tablet,Electronics,40000,Mid-Range quality Tablet from Croma.
+i47,s9,Cappuccino,Food,350,Mid-Range quality Cappuccino from Starbucks.
+i48,s9,Burger Meal,Food,450,Mid-Range quality Burger Meal from Starbucks.
+i49,s9,Pasta Alfredo,Food,650,Mid-Range quality Pasta Alfredo from Starbucks.
+i50,s9,Sandwich Combo,Food,300,Mid-Range quality Sandwich Combo from Starbucks.
+i51,s9,Cheesecake Slice,Food,400,Mid-Range quality Cheesecake Slice from Starbucks.
+i52,s9,Pizza,Food,800,Mid-Range quality Pizza from Starbucks.
+i53,s10,Cappuccino,Food,350,Budget quality Cappuccino from McDonalds.
+i54,s10,Burger Meal,Food,450,Budget quality Burger Meal from McDonalds.
+i55,s10,Pasta Alfredo,Food,650,Budget quality Pasta Alfredo from McDonalds.
+i56,s10,Sandwich Combo,Food,300,Budget quality Sandwich Combo from McDonalds.
+i57,s10,Cheesecake Slice,Food,400,Budget quality Cheesecake Slice from McDonalds.
+i58,s10,Pizza,Food,800,Budget quality Pizza from McDonalds.
+i59,s11,Cappuccino,Food,525,Premium quality Cappuccino from The Cheesecake Factory.
+i60,s11,Burger Meal,Food,675,Premium quality Burger Meal from The Cheesecake Factory.
+i61,s11,Pasta Alfredo,Food,975,Premium quality Pasta Alfredo from The Cheesecake Factory.
+i62,s11,Sandwich Combo,Food,450,Premium quality Sandwich Combo from The Cheesecake Factory.
+i63,s11,Cheesecake Slice,Food,600,Premium quality Cheesecake Slice from The Cheesecake Factory.
+i64,s11,Pizza,Food,1200,Premium quality Pizza from The Cheesecake Factory.
+i65,s12,Cappuccino,Food,350,Budget quality Cappuccino from Subway.
+i66,s12,Burger Meal,Food,450,Budget quality Burger Meal from Subway.
+i67,s12,Pasta Alfredo,Food,650,Budget quality Pasta Alfredo from Subway.
+i68,s12,Sandwich Combo,Food,300,Budget quality Sandwich Combo from Subway.
+i69,s12,Cheesecake Slice,Food,400,Budget quality Cheesecake Slice from Subway.
+i70,s12,Pizza,Food,800,Budget quality Pizza from Subway.
+i71,s13,Movie Ticket,Entertainment,400,Mid-Range quality Movie Ticket from PVR Cinemas.
+i72,s13,Popcorn Combo,Entertainment,600,Mid-Range quality Popcorn Combo from PVR Cinemas.
+i73,s13,Bowling Game,Entertainment,500,Mid-Range quality Bowling Game from PVR Cinemas.
+i74,s13,Arcade Card,Entertainment,1000,Mid-Range quality Arcade Card from PVR Cinemas.
+i75,s14,Movie Ticket,Entertainment,400,Mid-Range quality Movie Ticket from Fun City.
+i76,s14,Popcorn Combo,Entertainment,600,Mid-Range quality Popcorn Combo from Fun City.
+i77,s14,Bowling Game,Entertainment,500,Mid-Range quality Bowling Game from Fun City.
+i78,s14,Arcade Card,Entertainment,1000,Mid-Range quality Arcade Card from Fun City.
+i79,s15,Bestseller Novel,Books,500,Mid-Range quality Bestseller Novel from Crossword.
+i80,s15,Business Book,Books,800,Mid-Range quality Business Book from Crossword.
+i81,s15,Cookbook,Books,1200,Mid-Range quality Cookbook from Crossword.
+i82,s15,Stationery Set,Books,600,Mid-Range quality Stationery Set from Crossword.
+i83,s15,Magazine,Books,200,Mid-Range quality Magazine from Crossword.
+i84,s16,Lipstick,Beauty,2700,Premium quality Lipstick from Sephora.
+i85,s16,Foundation,Beauty,5250,Premium quality Foundation from Sephora.
+i86,s16,Perfume,Beauty,9000,Premium quality Perfume from Sephora.
+i87,s16,Skincare Kit,Beauty,6750,Premium quality Skincare Kit from Sephora.
+i88,s16,Face Mask,Beauty,750,Premium quality Face Mask from Sephora.
+i89,s17,Lipstick,Beauty,2700,Premium quality Lipstick from MAC Cosmetics.
+i90,s17,Foundation,Beauty,5250,Premium quality Foundation from MAC Cosmetics.
+i91,s17,Perfume,Beauty,9000,Premium quality Perfume from MAC Cosmetics.
+i92,s17,Skincare Kit,Beauty,6750,Premium quality Skincare Kit from MAC Cosmetics.
+i93,s17,Face Mask,Beauty,750,Premium quality Face Mask from MAC Cosmetics.
+i94,s18,Lipstick,Beauty,1800,Mid-Range quality Lipstick from The Body Shop.
+i95,s18,Foundation,Beauty,3500,Mid-Range quality Foundation from The Body Shop.
+i96,s18,Perfume,Beauty,6000,Mid-Range quality Perfume from The Body Shop.
+i97,s18,Skincare Kit,Beauty,4500,Mid-Range quality Skincare Kit from The Body Shop.
+i98,s18,Face Mask,Beauty,500,Mid-Range quality Face Mask from The Body Shop.
+i99,s19,Cushion Cover,Home,800,Mid-Range quality Cushion Cover from Home Centre.
+i100,s19,Table Lamp,Home,2500,Mid-Range quality Table Lamp from Home Centre.
+i101,s19,Bed Sheet Set,Home,3000,Mid-Range quality Bed Sheet Set from Home Centre.
+i102,s19,Scented Candle,Home,1200,Mid-Range quality Scented Candle from Home Centre.
+i103,s19,Wall Clock,Home,1500,Mid-Range quality Wall Clock from Home Centre.
+i104,s20,Cushion Cover,Home,800,Budget quality Cushion Cover from IKEA Studio.
+i105,s20,Table Lamp,Home,2500,Budget quality Table Lamp from IKEA Studio.
+i106,s20,Bed Sheet Set,Home,3000,Budget quality Bed Sheet Set from IKEA Studio.
+i107,s20,Scented Candle,Home,1200,Budget quality Scented Candle from IKEA Studio.
+i108,s20,Wall Clock,Home,1500,Budget quality Wall Clock from IKEA Studio.

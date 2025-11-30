@@ -11,16 +11,22 @@ function App() {
       <header className="App-header">
         <h1>AI Mall Assistant</h1>
         <nav>
-          <button onClick={() => setView('shopper')} className={view === 'shopper' ? 'active' : ''}>
+          <button
+            onClick={() => setView('shopper')}
+            className={view === 'shopper' ? 'active' : ''}
+          >
             Shopper View
           </button>
-          <button onClick={() => setView('owner')} className={view === 'owner' ? 'active' : ''}>
+          <button
+            onClick={() => setView('owner')}
+            className={view === 'owner' ? 'active' : ''}
+          >
             Store Owner View
           </button>
         </nav>
       </header>
       <main>
-        {view === 'shopper' ? <ShopperView /> : <OwnerView storeId="s1" />} {/* Hardcoding s1 for demo */}
+        {view === 'shopper' ? <ShopperView /> : <OwnerView storeId="s1" />}
       </main>
     </div>
   );

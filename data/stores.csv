@@ -1,6 +1,21 @@
-store_id,name,mall_zone,store_type
-s1,Apex Sports,A,Sports
-s2,Fashion Forward,B,Apparel
-s3,TechTrove,C,Electronics
-s4,Gourmet Corner,A,Food
-s5,Book Nook,B,Books
+store_id,name,category,zone,tier
+s1,Zara,Fashion,A,Premium
+s2,H&M,Fashion,A,Mid-Range
+s3,Gucci,Luxury,B,Luxury
+s4,Nike,Sports,A,Mid-Range
+s5,Uniqlo,Fashion,A,Budget
+s6,Apple Store,Electronics,B,Premium
+s7,Samsung,Electronics,B,Mid-Range
+s8,Croma,Electronics,B,Mid-Range
+s9,Starbucks,Food,C,Mid-Range
+s10,McDonalds,Food,C,Budget
+s11,The Cheesecake Factory,Food,C,Premium
+s12,Subway,Food,C,Budget
+s13,PVR Cinemas,Entertainment,D,Mid-Range
+s14,Fun City,Entertainment,D,Mid-Range
+s15,Crossword,Books,D,Mid-Range
+s16,Sephora,Beauty,A,Premium
+s17,MAC Cosmetics,Beauty,A,Premium
+s18,The Body Shop,Beauty,A,Mid-Range
+s19,Home Centre,Home,B,Mid-Range
+s20,IKEA Studio,Home,B,Budget
